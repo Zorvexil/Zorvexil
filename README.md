@@ -102,5 +102,5 @@ I'm also interested in:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&section=footer" width="100%" />
   <br>
-  <sub>ZORVEXIL · AYMEN KHADDAR · MMXXVI</sub>
+  <sub>ZORVEXIL · A.K · MMXXVI</sub>
 </p>

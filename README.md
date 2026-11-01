@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=E63946&fontAlignY=45&desc=BEYOND%20THE%20OBVIOUS&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFFF&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=E63946&fontAlignY=45&desc=BEYOND%20THE%20OBVIOUS&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AYMEN KHADDAR</b>
+  <b>A.K</b>
   <br>
   <sub>PERSONAL SPACE</sub>
 </p>

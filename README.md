@@ -1,53 +1,71 @@
-# `ZORVEXIL`
+# ZORVEXIL
+### Independent Mind. Open Source Spirit.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Aymen+Khaddar;C+Programmer;Linux+Enthusiast;Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:26090D,100:E63946&height=180&section=header&text=ZORVEXIL&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
-  <code>C PROGRAMMING</code> ·
-  <code>LINUX</code> ·
-  <code>CYBERSECURITY</code> ·
-  <code>OPEN SOURCE</code>
+  <code>AYMEN KHADDAR</code> &nbsp; / &nbsp; <code>MIMOUN</code>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Learning+how+systems+work.;Writing+code.+Building+ideas.;Exploring+the+open-source+world." />
 </p>
 
 ---
 
-### `$ whoami`
+## 01 — THE DEVELOPER
 
-I'm **Aymen Khaddar**, also known as **Mimoun**.
+I am **Aymen Khaddar**, a programming enthusiast exploring the world of software, systems, and technology.
 
-A programming enthusiast interested in understanding how technology works beneath the surface.
+My curiosity lies in understanding how things work — from low-level code to operating systems and networks.
 
-I enjoy exploring low-level programming, Linux systems, networking, and open-source software.
+I believe in learning by building, experimenting, and exploring.
 
-### `$ interests --list`
+## 02 — AREAS OF INTEREST
 
-- C Programming & System Development
-- GNU/Linux & Open Source
-- Computer Networking
-- Cybersecurity
-- Software Development
+| FIELD | FOCUS |
+|:---|:---|
+| Programming | C, Low-level Development |
+| Operating Systems | Linux, GNU/Linux |
+| Security | Cybersecurity Fundamentals |
+| Networking | Network Architecture |
+| Philosophy | Open Source & Privacy |
 
-### `$ current_projects`
+## 03 — SELECTED PROJECTS
 
-- **VEIL-19** — A personal text encoding system written in C.
-- **Password Safe** — A local password manager built with C and GTK4.
-- Exploring Linux desktop development and system programming.
+**VEIL-19**
+> A personal text encoding system written in C.
 
-### `$ philosophy`
+**Password Safe**
+> A local password manager built with C, GTK4 and libsodium.
 
-> Understand the system. Build with purpose. Keep learning.
+**IronCore OS**
+> An exploration of Linux desktop environments and open-source software.
 
-### `$ contact`
+## 04 — TECHNOLOGY
 
-- **Discord:** `Zorvexill`
-- **GitHub:** [@Zorvexil](https://github.com/Zorvexil)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,fedora,git,github,bash,gtk" />
+</p>
+
+## 05 — CONNECT
+
+<p align="center">
+  <a href="https://github.com/Zorvexil">
+    <img src="https://img.shields.io/badge/GitHub-ZORVEXIL-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Zorvexill-111111?style=for-the-badge&logo=discord&logoColor=E63946" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=2&section=footer" width="100%" />
-  <sub>© 2026 ZORVEXIL — Built with curiosity.</sub>
+  <i>"The best way to understand technology is to build with it."</i>
 </p>
-    
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&section=footer" width="100%" />
+  <sub>ZORVEXIL © 2026 — END OF TRANSMISSION</sub>
+</p>

@@ -1,71 +1,111 @@
-# ZORVEXIL
-### Independent Mind. Open Source Spirit.
+
+<!--
+    ZORVEXIL
+    Personal Digital Identity
+    Aymen Khaddar
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:26090D,100:E63946&height=180&section=header&text=ZORVEXIL&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=E63946&fontAlignY=45&desc=AN%20INDEPENDENT%20MIND&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <code>AYMEN KHADDAR</code> &nbsp; / &nbsp; <code>MIMOUN</code>
+  <b>AYMEN KHADDAR</b>
+  <br>
+  <sub>MOROCCO · DIGITAL IDENTITY</sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Learning+how+systems+work.;Writing+code.+Building+ideas.;Exploring+the+open-source+world." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=E63946&center=true&vCenter=true&width=500&lines=Curious+by+nature.;Independent+in+thought.;Always+exploring+new+ideas." />
+</p>
+
+<p align="center">
+  <i>"Curiosity is a way of seeing the world."</i>
 </p>
 
 ---
 
-## 01 — THE DEVELOPER
+## 01 / THE PERSON
 
-I am **Aymen Khaddar**, a programming enthusiast exploring the world of software, systems, and technology.
+I'm **Aymen Khaddar**, also known as **Mimoun**.
 
-My curiosity lies in understanding how things work — from low-level code to operating systems and networks.
+A curious mind interested in technology, knowledge, history, and the systems that shape our world.
 
-I believe in learning by building, experimenting, and exploring.
+I enjoy understanding how things work, questioning assumptions, exploring different perspectives, and learning beyond the obvious.
 
-## 02 — AREAS OF INTEREST
+I believe that curiosity should have no boundaries and that understanding is more valuable than simply accepting.
 
-| FIELD | FOCUS |
+## 02 / AREAS OF INTEREST
+
+| DOMAIN | INTEREST |
 |:---|:---|
-| Programming | C, Low-level Development |
-| Operating Systems | Linux, GNU/Linux |
-| Security | Cybersecurity Fundamentals |
-| Networking | Network Architecture |
-| Philosophy | Open Source & Privacy |
+| Technology | Programming & Computer Systems |
+| Computing | Linux & Open Source |
+| Artificial Intelligence | AI Operations & Automation |
+| Digital World | Privacy & Cybersecurity |
+| Networking | Computer Networks & Infrastructure |
+| Knowledge | History & Philosophy |
+| Society | Economics & Political Thought |
 
-## 03 — SELECTED PROJECTS
-
-**VEIL-19**
-> A personal text encoding system written in C.
-
-**Password Safe**
-> A local password manager built with C, GTK4 and libsodium.
-
-**IronCore OS**
-> An exploration of Linux desktop environments and open-source software.
-
-## 04 — TECHNOLOGY
+## 03 / MY APPROACH
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,fedora,git,github,bash,gtk" />
+  <img src="https://img.shields.io/badge/01-OBSERVE-171717?style=for-the-badge&labelColor=171717" />
+  <img src="https://img.shields.io/badge/02-QUESTION-171717?style=for-the-badge&labelColor=171717" />
+  <img src="https://img.shields.io/badge/03-UNDERSTAND-171717?style=for-the-badge&labelColor=171717" />
+  <img src="https://img.shields.io/badge/04-EXPERIMENT-E63946?style=for-the-badge&labelColor=171717" />
 </p>
 
-## 05 — CONNECT
+I value:
+
+- Independent thinking.
+- Continuous learning.
+- Intellectual curiosity.
+- Creativity and experimentation.
+- Privacy and digital freedom.
+- Open knowledge and collaboration.
+
+## 04 / TECHNOLOGY
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,fedora,bash,git,github,python,cpp" />
+</p>
+
+## 05 / BEYOND TECHNOLOGY
+
+Technology is only one part of my curiosity.
+
+I'm also interested in:
+
+- History and civilizations.
+- Philosophy and critical thinking.
+- Economics and social systems.
+- Political ideas and world affairs.
+- Science and human knowledge.
+
+## 06 / CONNECT
 
 <p align="center">
   <a href="https://github.com/Zorvexil">
-    <img src="https://img.shields.io/badge/GitHub-ZORVEXIL-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-ZORVEXIL-171717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-Zorvexill-111111?style=for-the-badge&logo=discord&logoColor=E63946" />
+  <a href="https://discord.com/channels/@zorvexill">
+    <img src="https://img.shields.io/badge/DISCORD-ZORVEXILL-171717?style=for-the-badge&logo=discord&logoColor=E63946" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>INSTAGRAM — COMING SOON</sub>
 </p>
 
 ---
 
 <p align="center">
-  <i>"The best way to understand technology is to build with it."</i>
+  <i>"Not everything needs to be understood immediately. Some things are worth exploring."</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E63946&height=3&section=footer" width="100%" />
-  <sub>ZORVEXIL © 2026 — END OF TRANSMISSION</sub>
+  <br>
+  <sub>ZORVEXIL · AYMEN KHADDAR · MMXXVI</sub>
 </p>

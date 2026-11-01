@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=0B0B0D&fontAlignY=45&desc=BEYOND%20THE%20OBVIOUS&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
 </p>
@@ -6,7 +7,7 @@
 <p align="center">
   <b>A.K</b>
   <br>
-  <sub>PERSONAL SPACE</sub>
+  <img src="https://img.shields.io/badge/PERSONAL_SPACE-FFFFFF?style=flat&labelColor=FFFFFF&color=FFFFFF" />
 </p>
 
 <p align="center">
@@ -103,3 +104,4 @@ I'm also interested in:
   <br>
   <sub>ZORVEXIL · A.K · MMXXVI</sub>
 </p>
+

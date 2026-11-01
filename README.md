@@ -1,18 +1,13 @@
 
-<!--
-    ZORVEXIL
-    Personal Digital Identity
-    Aymen Khaddar
--->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=E63946&fontAlignY=45&desc=AN%20INDEPENDENT%20MIND&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=200&section=header&text=ZORVEXIL&fontSize=65&fontColor=E63946&fontAlignY=45&desc=BEYOND%20THE%20OBVIOUS&descAlignY=70&descSize=13&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <b>AYMEN KHADDAR</b>
   <br>
-  <sub>MOROCCO · DIGITAL IDENTITY</sub>
+  <sub>PERSONAL SPACE</sub>
 </p>
 
 <p align="center">
